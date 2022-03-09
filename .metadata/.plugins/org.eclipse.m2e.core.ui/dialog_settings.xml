@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/home/ignatious/Documents/eHR/server"/>
+			<item value="/home/ignatious/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/hapi-fhir-jpaserver-starter"/>
+			<item value="/home/ignatious/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/fhir"/>
+			<item value="/home/ignatious/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/pdf-jsp"/>
+			<item value="/home/ignatious/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/report-ui"/>
+			<item value="/home/ignatious/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/spring-boot-jasper-report-mysql-database-example"/>
+			<item value="/home/ignatious/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/spring-boot-jasper-report-example"/>
+			<item value="/home/ignatious/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/spring-boot-jasper-report-example/springboot-jasper-report"/>
+			<item value="/home/ignatious/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/spring-mvc-jpa-jasper-report-example"/>
+			<item value="/home/ignatious/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/jasper-examples"/>
+			<item value="/home/ignatious/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/dynamicreports-jasper"/>
+			<item value="/home/ignatious/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/basic-hibernate-example/HibernateSample"/>
+			<item value="/home/ignatious/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/stackoverflow-questions"/>
+			<item value="/home/ignatious/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/spring-boot-pagination-sorting"/>
+			<item value="/home/ignatious/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/txmigration"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="515"/>
+		<item key="x" value="1929"/>
+		<item key="y" value="106"/>
+	</section>
+</section>

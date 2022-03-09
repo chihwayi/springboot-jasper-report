@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ReportEntity.java&apos; to &apos;SimpleCrossTab/src/com.simplejasper.crosstab.bean&apos;&#x0A;- Original project: &apos;TesingJasper&apos;&#x0A;- Destination element: &apos;SimpleCrossTab/src/com.simplejasper.crosstab.bean&apos;&#x0A;- Original element: &apos;org.testingjasper.report.dto.ReportEntity.java&apos;" description="Copy compilation unit" destination="=SimpleCrossTab/src&lt;com.simplejasper.crosstab.bean" element1="/src&lt;org.testingjasper.report.dto{ReportEntity.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1618558660065" units="1" version="1.0"/>
+</session>

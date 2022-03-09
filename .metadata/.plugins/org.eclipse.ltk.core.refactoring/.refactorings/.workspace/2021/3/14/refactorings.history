@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 6 resources" deleteContents="true" description="Delete 6 resources" element1="/dynamicreports-jasper" element2="/dynamicreports-adhoc" element3="/dynamicreports-core" element4="/dynamicreports-examples" element5="/dynamicreports-distribution" element6="/dynamicreports-googlecharts" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="6" stamp="1617201359983"/>
+</session>

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ignatious
+Build-Jdk: 15.0.2
+Implementation-Title: springboot-jasper-report-mysql
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.websparrow.report
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboot-jasper-report-mysql
+Created-By: Maven Integration for Eclipse
+
